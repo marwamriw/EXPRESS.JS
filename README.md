@@ -3,4 +3,4 @@ OVERVIEW: This web application serves as a concise platform presenting three key
 
 The application is accessible only during the following hours:
 Days: Monday to Friday
-Time: 9:00 AM to 5:00 PM (local time)
+Time: 9:00 AM to 5:00 PM 
